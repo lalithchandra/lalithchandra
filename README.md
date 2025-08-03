@@ -24,37 +24,19 @@
 ---
 
 <table width="100%">
-<tr>
-<td width="60%">
+  <tr>
+    <td width="50%" valign="top">
+      
+### 📊 Dashboard
 
-## 📊 Overview Dashboard
-<table>
-<tr>
-<td width="50%">
+#### 👤 Profile
+| **Name** | Panguluri Lalith Chandra |
+| :--- | :--- |
+| **Role** | Data Science Under Grad Student |
+| **Location** | Vijayawada, India 🇮🇳 |
+| **Education** | B.Tech CSE(DATA SCIENCE) |
 
-### 👨‍💻 **Profile**
-
-```yaml
-Name: Panguluri Lalith Chandra
-Role: Data Science Under Grad Student
-Location: Vijayawada, India 🇮🇳
-Education: B.Tech CSE(DATA SCIENCE)
-
-```
-</td>
-<td width="50%">
-
-### 🎯 **Current Focus**
-- **Project:** Indian Sign Language
-- **Learning:** Prompt Engineering, GEN-AI
-- **Goals:** Job in Product-Based Company, Good Score in GATE-2026
-
-</td>
-</tr>
-</table>
-
-## 🛠️ Technology Stack
-
+#### 🛠️ Technology Stack
 | **Category** | **Technologies** |
 |:---:|:---|
 | **Languages** | ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus) ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript) |
@@ -62,29 +44,20 @@ Education: B.Tech CSE(DATA SCIENCE)
 | **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js) ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express) ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django) |
 | **Database** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) |
 | **Tools & Platforms** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman) ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws) |
-| **AI** | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch) ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras) |
 | **Data Science** | ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn) ![Matplotlib](https://img.shields.io/badge/Matplotlib-56B5F7?style=flat&logo=matplotlib&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-8D86A3?style=flat&logo=seaborn&logoColor=white) |
+| **AI** | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch) ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras) |
+  </td>
 
-</td>
-<td width="40%">
+  <td width="50%" valign="top">
 
-### 📈 GitHub Analytics
+### 📈 GitHub Analysis
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=lalithchandra&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&card_width=400" alt="Lalith Chandra's GitHub stats" />
 
-<img height="120em" src="https://github-readme-stats.vercel.app/api?username=lalithchandra&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&card_width=400" alt="Lalith Chandra's GitHub stats" />
+<img height="150em" src="https://github-readme-streak-stats.herokuapp.com?user=lalithchandra&theme=dark&hide_border=true&background=0D1117" alt="GitHub Streak" />
 
-<img height="120em" src="https://github-readme-streak-stats.herokuapp.com?user=lalithchandra&theme=dark&hide_border=true&background=0D1117" alt="GitHub Streak" />
-
-<img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lalithchandra&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&card_width=400" alt="Top Languages" />
-</div>
-
-### 📊 **Stats**
-- **Projects:** 4+ Major Completed
-- **Tech Stack:** 15+ Technologies
-- **Contributions:** Active Open Source
-- **Focus:** Cross-Platform Development
-
-</td>
-</tr>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lalithchandra&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&card_width=400" alt="Top Languages" />
+    </td>
+  </tr>
 </table>
 
 ---
@@ -93,33 +66,34 @@ Education: B.Tech CSE(DATA SCIENCE)
 
 #### 💻 **Web Development**
 📋 A project completed during an IBM internship focused on developing a full-stack web application.
-🔧 `Node.js` `Express.js` `React` `MongoDB`
+<br>🔧 `Node.js` `Express.js` `React` `MongoDB`</br>
 <div align="center">
-  [![Repo] (https://img.shields.io/badge/GitHub-View-000000?style=flat&logo=github)] (https://github.com/lalithchandra/IBM-Internship)
+  <a href="https://github.com/lalithchandra/IBM-Internship.git" style="display: inline-block;padding: 10px 20px;font-size: 16px;color: #ffffff;background-color: #007bff;border: none;border-radius: 5px;text-decoration: none;text-align: center;cursor: pointer;">Github-View</a>
+
 </div>
 <br>
 
 #### 🤖 **Simple ML Model**
 📋 A simple real-time hand scanner using OpenCV and MediaPipe.
-🔧 `Python` `OpenCV` `MediaPipe`
+<br>🔧 `Python` `OpenCV` `MediaPipe`</br>
 <div align="center">
-[![Repo] (https://img.shields.io/badge/GitHub-View%20Repo-000000?style=for-the-badge&logo=github)](https://github.com/lalithchandra/Hand-Scan)
+  <a href="https://github.com/lalithchandra/Hand-Scan.git" style="display: inline-block;padding: 10px 20px;font-size: 16px;color: #ffffff;background-color: #007bff;border: none;border-radius: 5px;text-decoration: none;text-align: center;cursor: pointer;">Github-View</a>
 </div>
 <br>
 
 ### 🎬 **Movie Recommender**
 📋 A web-based application to recommend movies using collaborative filtering.
-🔧 `Pandas` `pickle` `Streamlit` `MediaPipe`
+<br>🔧 `Pandas` `pickle` `Streamlit` `MediaPipe`</br>
 <div align="center">
-[![Repo] (https://img.shields.io/badge/GitHub-View%20Repo-000000?style=for-the-badge&logo=github)](https://github.com/lalithchandra/movie_recommender)
+  <a href="https://github.com/lalithchandra/movie_recommender.git" style="display: inline-block;padding: 10px 20px;font-size: 16px;color: #ffffff;background-color: #007bff;border: none;border-radius: 5px;text-decoration: none;text-align: center;cursor: pointer;">Github-View</a>
 </div>
 <br>
 
 #### 🌐 **Personal Website**
 📋 My personal portfolio website showcasing various projects and skills.
-🔧 `HTML` `CSS` `JavaScript` `Bootstrap`
+<br>🔧 `HTML` `CSS` `JavaScript` `Bootstrap`</br>
 <div align="center">
-[![Repo] (https://img.shields.io/badge/GitHub-View%20Repo-000000?style=for-the-badge&logo=github)] (https://github.com/lalithchandra/portfolio.git)
+  <a href="https://github.com/lalithchandra/portfolio.git" style="display: inline-block;padding: 10px 20px;font-size: 16px;color: #ffffff;background-color: #007bff;border: none;border-radius: 5px;text-decoration: none;text-align: center;cursor: pointer;">Github-View</a>
 </div>
 
 ---

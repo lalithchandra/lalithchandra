@@ -21,12 +21,14 @@
   <p>I'm a Data Science student passionate about leveraging data to build intelligent solutions. My skills span from full-stack development to machine learning and data analysis. I love exploring new technologies and collaborating on projects that make a real-world impact. Currently, I'm focused on deepening my understanding of data science and AI principles to build a strong foundation for my career.</p>
 </div>
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
 ---
+## 📊 Overview Dashboard
+<table>
+<tr>
+<td width="50%">
+
 ### 👨‍💻 **Profile**
+
 ```yaml
 Name: Panguluri Lalith Chandra
 Role: Data Science Under Grad Student
@@ -34,6 +36,17 @@ Location: Vijayawada, India 🇮🇳
 Education: B.Tech CSE(DATA SCIENCE)
 
 ```
+</td>
+<td width="50%">
+
+### 🎯 **Current Focus**
+- **Project:** Indian Sign Language
+- **Learning:** Prompt Engineering, GEN-AI
+- **Goals:** Job in Product-Based Company, Good Score in GATE-2026
+
+</td>
+</tr>
+</table>
 
 ## 🛠️ Technology Stack
 
@@ -47,14 +60,15 @@ Education: B.Tech CSE(DATA SCIENCE)
 | **AI/ML & Data Science** | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch) ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn) ![Matplotlib](https://img.shields.io/badge/Matplotlib-56B5F7?style=flat&logo=matplotlib&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-8D86A3?style=flat&logo=seaborn&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter) |
 
 </td>
-<td width="50%" valign="top">
+<td width="40%">
 
 ### 📈 GitHub Analytics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lalithchandra&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&card_width=400" alt="Lalith Chandra's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=lalithchandra&theme=dark&hide_border=true&background=0D1117" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lalithchandra&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&card_width=400" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=lalithchandra&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&card_width=400" alt="Lalith Chandra's GitHub stats" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=lalithchandra&theme=dark&hide_border=true&background=0D1117" alt="GitHub Streak" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lalithchandra&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&card_width=400" alt="Top Languages" />
 </div>
 
 </td>

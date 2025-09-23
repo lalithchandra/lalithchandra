@@ -53,8 +53,6 @@
 ### 📈 GitHub Analysis
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=lalithchandra&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&card_width=400" alt="Lalith Chandra's GitHub stats" />
 
-<img height="150em" src="https://github-readme-streak-stats.herokuapp.com?user=lalithchandra&theme=dark&hide_border=true&background=0D1117" alt="GitHub Streak" />
-
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lalithchandra&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&card_width=400" alt="Top Languages" />
     </td>
   </tr>
